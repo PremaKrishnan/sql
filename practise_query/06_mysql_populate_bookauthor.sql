@@ -1,4 +1,3 @@
-SET FOREIGN_KEY_CHECKS=0;
 INSERT INTO book_author (book_id, author_id) VALUES
 (1570, 2823),
 (10539, 6439),
@@ -997,9 +996,7 @@ INSERT INTO book_author (book_id, author_id) VALUES
 (8513, 1585),
 (8529, 4163),
 (8537, 5878),
-(8543, 6432);
-
-INSERT INTO book_author (book_id, author_id) VALUES
+(8543, 6432),
 (8545, 7011),
 (8550, 874),
 (8556, 3296),
@@ -1995,9 +1992,7 @@ INSERT INTO book_author (book_id, author_id) VALUES
 (3247, 5866),
 (3248, 6538),
 (3249, 5333),
-(3252, 7683);
-
-INSERT INTO book_author (book_id, author_id) VALUES
+(3252, 7683),
 (3259, 7388),
 (3261, 664),
 (3262, 6582),
@@ -2996,9 +2991,7 @@ INSERT INTO book_author (book_id, author_id) VALUES
 (7753, 388),
 (7767, 5810),
 (7770, 3879),
-(7771, 6572);
-
-INSERT INTO book_author (book_id, author_id) VALUES
+(7771, 6572),
 (7774, 4464),
 (7775, 6572),
 (7779, 8105),
@@ -3996,9 +3989,7 @@ INSERT INTO book_author (book_id, author_id) VALUES
 (112, 1097),
 (113, 8373),
 (115, 2555),
-(120, 6949);
-
-INSERT INTO book_author (book_id, author_id) VALUES
+(120, 6949),
 (124, 143),
 (127, 148),
 (128, 7270),
@@ -4996,9 +4987,7 @@ INSERT INTO book_author (book_id, author_id) VALUES
 (2212, 477),
 (2213, 3755),
 (2214, 5469),
-(2215, 4896);
-
-INSERT INTO book_author (book_id, author_id) VALUES
+(2215, 4896),
 (2219, 7269),
 (2220, 4639),
 (2221, 7261),
@@ -5996,9 +5985,7 @@ INSERT INTO book_author (book_id, author_id) VALUES
 (3720, 3532),
 (3721, 8040),
 (3722, 8085),
-(3724, 494);
-
-INSERT INTO book_author (book_id, author_id) VALUES
+(3724, 494),
 (3725, 4336),
 (3726, 7145),
 (3727, 7145),
@@ -6996,9 +6983,7 @@ INSERT INTO book_author (book_id, author_id) VALUES
 (5397, 2372),
 (5399, 7609),
 (5400, 4587),
-(5401, 7875);
-
-INSERT INTO book_author (book_id, author_id) VALUES
+(5401, 7875),
 (5402, 7875),
 (5403, 7875),
 (5404, 7875),
@@ -7996,9 +7981,7 @@ INSERT INTO book_author (book_id, author_id) VALUES
 (7053, 5995),
 (7055, 5995),
 (7056, 8461),
-(7057, 8461);
-
-INSERT INTO book_author (book_id, author_id) VALUES
+(7057, 8461),
 (7058, 1018),
 (7059, 1018),
 (7060, 1018),
@@ -8996,9 +8979,7 @@ INSERT INTO book_author (book_id, author_id) VALUES
 (9114, 2208),
 (9119, 8669),
 (9122, 7761),
-(9129, 8669);
-
-INSERT INTO book_author (book_id, author_id) VALUES
+(9129, 8669),
 (9130, 7761),
 (9131, 5880),
 (9135, 8669),
@@ -9996,9 +9977,7 @@ INSERT INTO book_author (book_id, author_id) VALUES
 (9477, 3161),
 (9677, 7091),
 (9973, 5889),
-(10442, 8026);
-
-INSERT INTO book_author (book_id, author_id) VALUES
+(10442, 8026),
 (1577, 1829),
 (7911, 1849),
 (8276, 3758),
@@ -10996,9 +10975,7 @@ INSERT INTO book_author (book_id, author_id) VALUES
 (8176, 5838),
 (8179, 1605),
 (8255, 7312),
-(8262, 6513);
-
-INSERT INTO book_author (book_id, author_id) VALUES
+(8262, 6513),
 (8272, 4799),
 (8291, 2406),
 (8293, 7985),
@@ -11996,9 +11973,7 @@ INSERT INTO book_author (book_id, author_id) VALUES
 (2557, 5053),
 (2559, 3357),
 (2560, 5053),
-(2561, 5053);
-
-INSERT INTO book_author (book_id, author_id) VALUES
+(2561, 5053),
 (2562, 8383),
 (1795, 336),
 (2571, 8557),
@@ -12996,9 +12971,7 @@ INSERT INTO book_author (book_id, author_id) VALUES
 (6965, 5471),
 (6966, 4013),
 (6967, 5471),
-(6986, 4835);
-
-INSERT INTO book_author (book_id, author_id) VALUES
+(6986, 4835),
 (6999, 434),
 (7026, 3663),
 (7027, 3517),
@@ -13996,9 +13969,7 @@ INSERT INTO book_author (book_id, author_id) VALUES
 (10481, 5420),
 (10483, 6458),
 (10486, 4176),
-(10489, 7039);
-
-INSERT INTO book_author (book_id, author_id) VALUES
+(10489, 7039),
 (10491, 1596),
 (5099, 1227),
 (1907, 4909),
@@ -14996,9 +14967,7 @@ INSERT INTO book_author (book_id, author_id) VALUES
 (3882, 8292),
 (3889, 8292),
 (3890, 8292),
-(3891, 8292);
-
-INSERT INTO book_author (book_id, author_id) VALUES
+(3891, 8292),
 (3894, 8292),
 (3901, 8292),
 (3906, 8292),
@@ -15996,9 +15965,7 @@ INSERT INTO book_author (book_id, author_id) VALUES
 (6338, 4893),
 (6393, 4722),
 (6439, 1737),
-(6460, 4588);
-
-INSERT INTO book_author (book_id, author_id) VALUES
+(6460, 4588),
 (6569, 1551),
 (6588, 834),
 (6727, 1025),
@@ -16996,9 +16963,7 @@ INSERT INTO book_author (book_id, author_id) VALUES
 (3560, 588),
 (3669, 7105),
 (7968, 1830),
-(8351, 4307);
-
-INSERT INTO book_author (book_id, author_id) VALUES
+(8351, 4307),
 (9361, 3192),
 (9364, 8681),
 (9477, 9105),
@@ -17676,4 +17641,3 @@ INSERT INTO book_author (book_id, author_id) VALUES
 (1570, 6940),
 (1570, 8885),
 (1570, 5247);
-SET FOREIGN_KEY_CHECKS=1;
